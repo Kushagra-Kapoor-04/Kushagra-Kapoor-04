@@ -20,7 +20,7 @@ Fascinated by how AI makes game bosses unpredictable (Sekiro-level obsession).
 | [Neural Network from Scratch](https://github.com/Kushagra-Kapoor-04/neural-network-from-scratch) | NumPy only · MNIST · 97.97% acc | ✅ Built |
 | [Email Spam Classifier](https://github.com/Kushagra-Kapoor-04/email-spam-classifier) | Naive Bayes · LR · Flask API | ✅ Built |
 | [House Price Predictor](https://github.com/Kushagra-Kapoor-04/house-price-predictor) | Linear Regression · NumPy · from scratch | ✅ Built |
-| Plant Disease Detector | EfficientNet-B2 · PyTorch · FastAPI | 🔄 In Progress |
+| Plant Disease Detector | EfficientNet-B2 · PyTorch · FastAPI | ✅ Built |
 
 ---
 
