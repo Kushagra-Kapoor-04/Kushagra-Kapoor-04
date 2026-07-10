@@ -21,7 +21,7 @@ Fascinated by how AI makes game bosses unpredictable (Sekiro-level obsession).
 | [Email Spam Classifier](https://github.com/Kushagra-Kapoor-04/email-spam-classifier) | Naive Bayes · LR · Flask API | ✅ Built |
 | [House Price Predictor](https://github.com/Kushagra-Kapoor-04/house-price-predictor) | Linear Regression · NumPy · from scratch | ✅ Built |
 | [Plant Disease Detector](https://github.com/Kushagra-Kapoor-04/Plant-Disease-Detector) | EfficientNet-B2 · PyTorch · FastAPI | ✅ Built |
-| Stock Price Forecaster | Time Series · PyTorch · live data | In Progress |
+| [Stock Price Forecaster](https://github.com/Kushagra-Kapoor-04/Stock-price-forecaster) | Time Series · PyTorch · live data | In Progress |
 
 ---
 
