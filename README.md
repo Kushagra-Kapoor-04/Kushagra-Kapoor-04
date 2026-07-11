@@ -18,10 +18,11 @@ Fascinated by how AI makes game bosses unpredictable (Sekiro-level obsession).
 | [Customer Segmentation Dashboard](https://github.com/Kushagra-Kapoor-04/customer-segmentation-dashboard) | K-Means · RFM · Streamlit Cloud | ✅ Live |
 | [Credit Card Fraud Detector](https://github.com/Kushagra-Kapoor-04/credit-card-fraud-detector) | XGBoost · SHAP · imbalanced-learn | ✅ Built |
 | [Neural Network from Scratch](https://github.com/Kushagra-Kapoor-04/neural-network-from-scratch) | NumPy only · MNIST · 97.97% acc | ✅ Built |
+| [Plant Disease Detector](https://github.com/Kushagra-Kapoor-04/Plant-Disease-Detector) | ResNet18 · PyTorch · FastAPI | ✅ Built |
+| [Stock Price Forecaster](https://github.com/Kushagra-Kapoor-04/Stock-price-forecaster) | LSTM · PyTorch · live NSE data · 0.93% MAPE | ✅ Built |
 | [Email Spam Classifier](https://github.com/Kushagra-Kapoor-04/email-spam-classifier) | Naive Bayes · LR · Flask API | ✅ Built |
 | [House Price Predictor](https://github.com/Kushagra-Kapoor-04/house-price-predictor) | Linear Regression · NumPy · from scratch | ✅ Built |
-| [Plant Disease Detector](https://github.com/Kushagra-Kapoor-04/Plant-Disease-Detector) | EfficientNet-B2 · PyTorch · FastAPI | ✅ Built |
-| [Stock Price Forecaster](https://github.com/Kushagra-Kapoor-04/Stock-price-forecaster) | Time Series · PyTorch · live data | In Progress |
+| Anomaly Detection System | Autoencoder · PyTorch · Streamlit | 🔄 In Progress |
 
 ---
 
